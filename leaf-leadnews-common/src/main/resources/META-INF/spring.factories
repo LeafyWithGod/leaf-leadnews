@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.leaf.common.exception.ExceptionCatch,\
+  com.leaf.common.swagger.SwaggerConfiguration,\
+  com.leaf.common.swagger.Swagger2Configuration

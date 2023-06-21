@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/leaf-leadnews-service/leadnews-user/leadnews-user.iml" filepath="$PROJECT_DIR$/leaf-leadnews-service/leadnews-user/leadnews-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leaf-leadnews.iml" filepath="$PROJECT_DIR$/leaf-leadnews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leaf-leadnews-gateway/leaf-leadnews-app-gateway/leaf-leadnews-app-gateway.iml" filepath="$PROJECT_DIR$/leaf-leadnews-gateway/leaf-leadnews-app-gateway/leaf-leadnews-app-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leaf-leadnews-common/leaf-leadnews-common.iml" filepath="$PROJECT_DIR$/leaf-leadnews-common/leaf-leadnews-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leaf-leadnews-feign-api/leaf-leadnews-feign-api.iml" filepath="$PROJECT_DIR$/leaf-leadnews-feign-api/leaf-leadnews-feign-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leaf-leadnews-gateway/leaf-leadnews-gateway.iml" filepath="$PROJECT_DIR$/leaf-leadnews-gateway/leaf-leadnews-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leaf-leadnews-model/leaf-leadnews-model.iml" filepath="$PROJECT_DIR$/leaf-leadnews-model/leaf-leadnews-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leaf-leadnews-service/leaf-leadnews-service.iml" filepath="$PROJECT_DIR$/leaf-leadnews-service/leaf-leadnews-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leaf-leadnews-test/leaf-leadnews-test.iml" filepath="$PROJECT_DIR$/leaf-leadnews-test/leaf-leadnews-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leaf-leadnews-utils/leaf-leadnews-utils.iml" filepath="$PROJECT_DIR$/leaf-leadnews-utils/leaf-leadnews-utils.iml" />
+    </modules>
+  </component>
+</project>

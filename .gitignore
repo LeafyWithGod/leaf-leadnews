@@ -1,0 +1,6 @@
+# 项目排除路径
+/leaf-leadnews-common/target/
+/leaf-leadnews-gateway/leaf-leadnews-app-gateway/target/
+/leaf-leadnews-model/target/
+/leaf-leadnews-service/leadnews-user/target/
+/leaf-leadnews-utils/target/
